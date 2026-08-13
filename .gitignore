@@ -1,0 +1,38 @@
+# Project-specific
+data/
+output/
+*.pt
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+
+# Jupyter
+.ipynb_checkpoints
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
